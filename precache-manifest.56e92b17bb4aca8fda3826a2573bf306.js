@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9ad12ffd4df4551eae992f0eb485b89",
+    "revision": "2f163ccaa5ddb93359228b4e0d56ac4b",
     "url": "/mayos53/telegram-react/index.html"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mayos53/telegram-react/static/css/6.6fa1e2f7.chunk.css"
   },
   {
-    "revision": "61127e3506af670e514e",
+    "revision": "892829673343f2f82b12",
     "url": "/mayos53/telegram-react/static/css/main.505b9513.chunk.css"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mayos53/telegram-react/static/js/7.f8e71b5f.chunk.js"
   },
   {
-    "revision": "61127e3506af670e514e",
-    "url": "/mayos53/telegram-react/static/js/main.3eeec194.chunk.js"
+    "revision": "892829673343f2f82b12",
+    "url": "/mayos53/telegram-react/static/js/main.060c348e.chunk.js"
   },
   {
     "revision": "785b6b7fc81b25207773",
