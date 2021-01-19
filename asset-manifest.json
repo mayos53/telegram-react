@@ -4,8 +4,8 @@
     "static/js/0.b46b3fac.chunk.js": "/mayos53/telegram-react/static/js/0.b46b3fac.chunk.js",
     "static/js/0.b46b3fac.chunk.js.map": "/mayos53/telegram-react/static/js/0.b46b3fac.chunk.js.map",
     "main.css": "/mayos53/telegram-react/static/css/main.505b9513.chunk.css",
-    "main.js": "/mayos53/telegram-react/static/js/main.060c348e.chunk.js",
-    "main.js.map": "/mayos53/telegram-react/static/js/main.060c348e.chunk.js.map",
+    "main.js": "/mayos53/telegram-react/static/js/main.7159d5cc.chunk.js",
+    "main.js.map": "/mayos53/telegram-react/static/js/main.7159d5cc.chunk.js.map",
     "runtime-main.js": "/mayos53/telegram-react/static/js/runtime-main.d4b19cdd.js",
     "runtime-main.js.map": "/mayos53/telegram-react/static/js/runtime-main.d4b19cdd.js.map",
     "static/css/3.9cebcb66.chunk.css": "/mayos53/telegram-react/static/css/3.9cebcb66.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/7.f8e71b5f.chunk.js": "/mayos53/telegram-react/static/js/7.f8e71b5f.chunk.js",
     "static/js/7.f8e71b5f.chunk.js.map": "/mayos53/telegram-react/static/js/7.f8e71b5f.chunk.js.map",
     "index.html": "/mayos53/telegram-react/index.html",
-    "precache-manifest.56e92b17bb4aca8fda3826a2573bf306.js": "/mayos53/telegram-react/precache-manifest.56e92b17bb4aca8fda3826a2573bf306.js",
+    "precache-manifest.a508c89156fea8f4de3a57d82cf965c1.js": "/mayos53/telegram-react/precache-manifest.a508c89156fea8f4de3a57d82cf965c1.js",
     "service-worker.js": "/mayos53/telegram-react/service-worker.js",
     "static/css/0.52c23fd6.chunk.css.map": "/mayos53/telegram-react/static/css/0.52c23fd6.chunk.css.map",
     "static/css/3.9cebcb66.chunk.css.map": "/mayos53/telegram-react/static/css/3.9cebcb66.chunk.css.map",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.d4b19cdd.js",
     "static/js/4.8487332a.chunk.js",
     "static/css/main.505b9513.chunk.css",
-    "static/js/main.060c348e.chunk.js"
+    "static/js/main.7159d5cc.chunk.js"
   ]
 }
